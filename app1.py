@@ -34,4 +34,3 @@ if type(output) == list:
 else:
     print(output)
 
-print("hi")
